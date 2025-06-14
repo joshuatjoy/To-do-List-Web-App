@@ -16,5 +16,5 @@ A simple and elegant To-Do List web application built using **HTML**, **CSS**, a
 
 ## 🌐 Live Demo
 
-[Live Preview](#)  
+[Live Preview](https://joshuatjoy.github.io/To-do-List-Web-App/)  
 <!-- Replace with your deployed link -->
